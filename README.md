@@ -1,1 +1,1 @@
-PARL-AI
+Proyecto Inteligencia Artificial I
