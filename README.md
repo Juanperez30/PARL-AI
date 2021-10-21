@@ -1,8 +1,6 @@
 _AUTORES_
 
-Juan Pablo Pérez Leal
-
-Laura Natalia Jaimes Antolínez
+Juan Pablo Pérez Leal, Laura Natalia Jaimes Antolínez
 
 
 _OBJETIVO_
